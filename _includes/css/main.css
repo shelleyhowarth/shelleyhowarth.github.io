@@ -482,5 +482,5 @@ footer .footer-below {
 }
 
 .portfolio-background {
-    background-color: #{{ site.color.secondary }};
+    background: #{{ site.color.secondary }};
 }
