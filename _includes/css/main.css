@@ -480,3 +480,7 @@ footer .footer-below {
 .portfolio {
     color: #fff;
 }
+
+.portfolio-background {
+    background-color: #{{ site.color.secondary }};
+}
