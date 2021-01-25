@@ -474,5 +474,9 @@ footer .footer-below {
 }
 
 .about {
-    color: #{{ site.color.secondary }}
+    color: #{{ site.color.secondary }};
+}
+
+.portfolio {
+    color: #fff;
 }
