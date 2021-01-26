@@ -1,11 +1,12 @@
 ---
 layout: default
+title: Supermarket Simulator
 modal-id: 1
 date: 2020-12-13
 img: cabin.png
 alt: image-alt
 project-date: December 2020
-Technologies used: Go Lang
-category: Web Development
-description: Created a simulator of a supermarket using Go Lang. Scaled a 12 hour day into 60 seconds (run time of simulator). Customers were generated every x minutes (depending on the weather agent) and randomly allocated them a number of items between 1 and 200. Customers then had to queue for a checkout. 8 checkouts were created using Go routines. Each checkout had a different scanning speed and would open and close dynamically depending on how full the other queues were. 
+technologies-used: Go Lang
+grade: A1
+description: Project was assigned to us in final year of college. We had to simulate a day in the supermarket and account for checkouts opening and closing as well as the constant flow of customers coming in. As well as this, there were agents that affected the simulator such as the weather, length of queues and the speed of the scanners at the checkouts. 
 ---
