@@ -8,5 +8,5 @@ alt: image-alt
 project-date: December 2020
 technologies-used: Go Lang
 grade: A1
-description: Project was assigned to us in final year of college. We had to simulate a day in the supermarket and account for checkouts opening and closing as well as the constant flow of customers coming in. As well as this, there were agents that affected the simulator such as the weather, length of queues and the speed of the scanners at the checkouts. 
+description: Project was assigned to us in final year of college. We had to simulate a day in the supermarket and account for checkouts opening and closing as well as the constant flow of customers coming in. There were also a number of agents incorporated into the simulator that affected how the simulation ran such as the weather, length of queues and the speed of the scanners at the checkouts. 
 ---
