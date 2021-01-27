@@ -1,11 +1,13 @@
 ---
 layout: default
+title: Surf Equipment Rental System
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2020-04-13
+img: surf.png
+img-text: surf-text.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: October 2020
+technologies-used: Java, Android Studio, & Firebase
+grade: A2
+description: Project was assigned to a group of us in third year of college. We had to create an Android app so we created an equipment rental app for the UL Surf Club. I was responsible for implementing the Google Maps feature using the Google Maps API. I implemented highlighting a route from the user's coordinates to the boathouse (where to retrieve and return equipment).
 ---
