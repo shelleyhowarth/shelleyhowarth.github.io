@@ -3,7 +3,8 @@ layout: default
 title: House Price Predictor
 modal-id: 3
 date: 2020-04-13
-img: cabin.png
+img: house.png
+img-text: house-text.png
 alt: image-alt
 project-date: October 2020
 technologies-used: Python, Jupyter Notebook
