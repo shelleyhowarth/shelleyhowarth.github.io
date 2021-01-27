@@ -3,8 +3,8 @@ layout: default
 title: Clothing Shop App
 modal-id: 6
 date: 2020-04-13
-img: shop.png
-img-text: shop-text.png
+img: clothes.png
+img-text: clothes-text.png
 alt: image-alt
 project-date: December 2020
 technologies-used: Java, Android Studio, & Firebase
