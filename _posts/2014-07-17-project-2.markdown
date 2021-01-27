@@ -3,7 +3,8 @@ layout: default
 title: Dating Website
 modal-id: 2
 date: 2020-04-13
-img: cabin.png
+img: dating.png
+img-text: dating-text.png
 alt: image-alt
 project-date: April 2020
 technologies-used: Adobe XD, Angular, HTML, SCSS, & Firebase
