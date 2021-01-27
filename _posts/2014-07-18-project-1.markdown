@@ -3,6 +3,7 @@ layout: default
 title: Supermarket Simulator
 modal-id: 1
 date: 2020-12-13
+img-text: supermarket-text.png
 img: supermarket.png
 alt: image-alt
 project-date: December 2020
