@@ -9,5 +9,6 @@ alt: image-alt
 project-date: April 2020
 technologies-used: Adobe XD, Angular, HTML, SCSS, & Firebase
 grade: A1
+link: https://github.com/shelleyhowarth/cs4116-dating-site
 description: Project was assigned to us in third year of college. We had to create a full stack dating website. I created the whole design of the website on Adobe XD. The user can register an account on the dating website and view other users that meet their criteria (age, gender, county and interests) or else users with similar interests are automatically suggested for them. If they see a user they like, they can invite them to connect with them and then once the connection is made the messaging featue becomes available.
 ---

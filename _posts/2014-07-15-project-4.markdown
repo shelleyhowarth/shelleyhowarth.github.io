@@ -9,5 +9,6 @@ alt: image-alt
 project-date: October 2020
 technologies-used: Python, & SparkML
 grade: A1
+link: https://github.com/shelleyhowarth/movie-recommendation-system
 description: Project was assigned to me in final year of college. We were given skeleton code along with a movies, ratings and users dataset. The program begins by asking the users to rate 10 movies on a scale of 1-5. I had to create a model using the ALS algorithm from SparkML that recommends movies based on the 10 movies that the user is asked to rate at the beginning. The model then compares the ratings to users who also rated those movies similarly and then recommends other movies that those users also liked.
 ---

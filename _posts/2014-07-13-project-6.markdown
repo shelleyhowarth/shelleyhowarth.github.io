@@ -9,5 +9,6 @@ alt: image-alt
 project-date: December 2020
 technologies-used: Java, Android Studio, & Firebase
 grade: A1
+link: https://github.com/shelleyhowarth/CS4125_project_group32
 description: Project was assigned to a group of us in final year of college. We had to create an Android app so we created an clothing store app. The user can sign up for the app and purchase items of clothing through the app. 
 ---

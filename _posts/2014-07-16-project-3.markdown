@@ -8,6 +8,7 @@ img-text: house-text.png
 alt: image-alt
 project-date: October 2020
 technologies-used: Python, Jupyter Notebook
+link: https://github.com/shelleyhowarth/house-price-predictor
 grade: A2
 description: Project was assigned to me in final year of college. We were told to choose a dataset from Kaggle and to create a neural network using regression. I chose a dataset that contained details of houses along with the prices of them and built a model to predict the price of a house given other information about it (such as average area income, size, bedrooms etc.)
 ---
