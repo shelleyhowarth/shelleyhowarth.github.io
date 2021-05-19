@@ -1,0 +1,14 @@
+---
+layout: default
+title: Fuelr
+modal-id: 7
+date: 2021-04-23
+img: fuelr.png
+img-text: fuelr-text.png
+alt: image-alt
+project-date: May 2021
+technologies-used: React Native, JavaScript, Expo, & Firebase
+grade: (Awaiting Grade)
+link: https://github.com/shelleyhowarth/fuelr
+description: App was created for my final year project at university. The application utilises the user's GPS coordinates to display nearby fuel stations, along with their latest user-inputted fuel prices. Gamification was used to reward user inputs for prices, available amenities at a fuel station, and reviews, with points that place them on a nationwide leaderboard. A leaderboard was also created for all the fuel stations in the system that ranks them on their fuel prices in ascending order.
+---
